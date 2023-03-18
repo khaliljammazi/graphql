@@ -1,0 +1,4 @@
+graph\repositories\StudentRepository.class
+graph\graphql\Query.class
+graph\graphql\GraphQLEndpoint.class
+graph\entities\Student.class
